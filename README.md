@@ -1,7 +1,3 @@
-# yabes_jonathan_1055HW#2_CrushingBugs
- Solve the bugs
-
-
 # HW #2 – CRUSHING BUGS (TROUBLESHOOTING JAVASCRIPT)
 
 ## TODO:
@@ -19,7 +15,8 @@ Solve these two problems. You can use the original drop func>on to solve the fir
 Write out your plan FIRST. You can’t solve a problem - coding or otherwise - if you don’t understand what you need to do. Reason about the problem - think it through. Ar>cula>ng the solu>on first will be a great help in comple>ng the assignment successfully.
 
 ## Additional Requirements
-1. Include a wriZen plan / path with your submission. Analyze the problem and provide the solu>on. ### 2. Create a Readme.md document for the repo with detailed informa>on about the project.
+1. Include a wriZen plan / path with your submission. Analyze the problem and provide the solu>on.
+2. Create a Readme.md document for the repo with detailed informa>on about the project.
 3. Create a branch for each bug and its solu>on. Provide the JS for each.
 4. Merge everything to the master branch (keep all branches in your repo).
 
